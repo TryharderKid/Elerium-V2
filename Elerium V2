@@ -2041,7 +2041,8 @@ local whitelistedUsers = {
     "Irinelbatistted31020",
     "Yasmim111_dripada4",
     "Irinelbatistted31020",
-    "Yasmimi111_dripada4"
+    "Yasmimi111_dripada4",
+    "NovaHubPaidList"
 }
 
 local Players = game:GetService("Players")
