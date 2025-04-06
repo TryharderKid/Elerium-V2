@@ -2021,8 +2021,12 @@ end
 local whitelistedUsers = {
     "EternalKing_ofc",
     "EternalQueen_ofc",
+    "EternaIQueen_ofc",
+    "EternaIKing_ofc",
     "OfEternal_king",
+    "OfEternaI_king",
     "OfEternal_queen",
+    "OfEternaI_queen",
     "TOQUIO_944",
     "TOQUIO_94",
     "PROPLAYER292827",
